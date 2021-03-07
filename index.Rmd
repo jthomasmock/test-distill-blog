@@ -1,0 +1,24 @@
+---
+title: "My Blog"
+site: distill::distill_website
+listing: posts
+---
+
+```{r, include=FALSE, results='asis'}
+library(metathis)
+
+meta() %>%
+  meta_social(
+    title = "The MockUp Blog",
+    description = "Tom's musings are all things R",
+    url = "https://themockup.blog/",
+    image = "https://r4ds.had.co.nz/cover.png",
+    image_alt = "The cover of the R4DS book",
+    og_type = "website",
+    og_author = "Tom Mock",
+    twitter_card_type = "summary",
+    twitter_creator = "@thomas_mock"
+  )
+
+```
+
