@@ -11,10 +11,10 @@
     ],
     "date": "2021-02-21",
     "categories": [],
-    "contents": "\nHere is some example content.\nThis is a new distill site.\n\n\n\n",
+    "contents": "\nHere is some example content.\nThis is a new distill site. Added metathis to the index.Rmd\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-21T14:05:21-06:00",
-    "input_file": {}
+    "last_modified": "2021-03-07T10:52:37-06:00",
+    "input_file": "test-post.utf8.md"
   },
   {
     "path": "posts/welcome/",

@@ -18,5 +18,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Here is some example content.
 
-This is a new distill site.
+This is a new distill site. Added metathis to the index.Rmd
 
